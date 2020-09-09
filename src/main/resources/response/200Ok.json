@@ -1,0 +1,22 @@
+{
+  "logid": 1111,
+  "applicationId": 1111,
+  "applicationName": "demo",
+  "message": {
+    "logId": 11111,
+    "timeMillis": 1551908790726,
+    "datetime": "2015-11-01 17:05:27 -0700",
+    "thread": "http-nio-8080-exec-2",
+    "pid": 216,
+    "threadId": 21,
+    "threadPriority": 5,
+    "level": "ERROR",
+    "loggerName": "org.sample.Service1",
+    "message": "Log this statement",
+    "service": "java-app",
+    "additionalInfo": {
+      "field1": "ABC",
+      "field2": "ABC"
+    }
+  }
+}
